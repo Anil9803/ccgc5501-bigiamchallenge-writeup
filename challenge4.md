@@ -1,7 +1,6 @@
 # Writeup for Big IAM Challenge: Challenge 4
 
-Challenge Number
-4
+Challenge 4
 
 Challenge Statement
 The goal of Challenge 4 is to exploit an overly permissive IAM policy on an Amazon S3 bucket. Although the challenge claims that only a specific admin user can access the bucket, the policy contains a flaw that allows unauthorized users to list and retrieve objects. This challenge highlights the risks of misconfigured S3 bucket permissions.
